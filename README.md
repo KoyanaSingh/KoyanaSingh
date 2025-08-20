@@ -1,6 +1,6 @@
 <!-- Banner / Introduction -->
 <h1 align="center">Hi, I'm Koyana Singh 👋</h1>
-<h3 align="center">Full Stack Developer | 2+ years of experience building scalable web and mobile applications</h3>
+<h3 align="center">Full Stack Developer | 2+ Years of experience | Developed scalable Web & Mobile Apps</h3>
 
 <p align="center">
   🚀 Skilled in <b>React</b>, <b>Node.js (Express)</b>, <b>MongoDB</b>, <b>Java</b>, <b>C++</b>, and <b>Python</b>.
@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KoyanaSingh&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoyanaSingh&layout=compact&theme=radical" height="165" />
@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoyanaSingh&theme=radical" />
-</p>
+</p> -->
 
 ---
 
@@ -59,4 +59,5 @@
 
 ---
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>
+<!--<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>-->
+<p align="center"><i>"First, solve the problem. Then, write the code." – John Johnson</i></p>
