@@ -1,10 +1,18 @@
 <!-- Banner / Introduction -->
 <h1 align="center">Hi, I'm Koyana Singh 👋</h1>
-<h3 align="center">Full Stack Developer | 2+ Years of experience | Developed scalable Web & Mobile Apps</h3>
+<h3 align="center">Full Stack Developer | Building Scalable Web & Mobile Apps</h3>
 
 <p align="center">
-  🚀 Skilled in <b>React</b>, <b>Node.js (Express)</b>, <b>MongoDB</b>, <b>Java</b>, <b>C++</b>, and <b>Python</b>.
+  💻 2+ years of experience | 🌍 Open to remote & onsite opportunities
 </p>
+
+---
+
+## 👨‍💻 About Me  
+- 🚀 Skilled in <b>React</b>, <b>Node.js (Express)</b>, <b>MongoDB</b>, <b>Java</b>, <b>C++</b>, and <b>Python</b>  
+- 🎯 Currently learning <b>Next.js</b> & <b>TypeScript</b>  
+- 🛠️ Passionate about solving real-world problems with clean, scalable code  
+- ☕ Coffee + coding = productivity boost  
 
 ---
 
@@ -30,34 +38,49 @@
 
 ---
 
-## 🚀 Featured Projects
-- **[Portfolio Website](#)** – Personal portfolio built with HTML, CSS, JavaScript  
-- **[Task Manager App](#)** – Full-stack app with React frontend, Express backend, MongoDB database  
-- **[Sorting Visualizer](#)** – Algorithm visualization tool using C++  
+## ✅ Completed Projects  
+<!-- - **[Portfolio Website](#)** – Personal portfolio built with HTML, CSS, JavaScript  
+- **[Sorting Visualizer](#)** – Algorithm visualization tool using C++ --> 
+> ⚡ *Currently empty — but hey, Rome wasn’t built in a day!*  
+(*Stay tuned, projects will start rolling in soon 🚀*)  
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Planned Projects (Coming Soon 🚀)
+- 🌐 **Portfolio Website** – Personal portfolio built with HTML, CSS, JavaScript 
+- 🌐 **Portfolio Website 2** – Personal website built with React + TailwindCSS 
+- ✅ **Task Manager App** – Full-stack CRUD app with authentication (MERN)  
+- 🎨 **Sorting Visualizer** – Algorithm visualization tool in C++
+- ✍️ **Blog Platform** – MERN stack blog platform with authentication & CRUD features  
+- 🛒 **E-commerce Store** – Full-stack store with cart, checkout & payment integration
+- 📊 **Expense Tracker** – Track spending with charts (React + MongoDB)  
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoyanaSingh&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoyanaSingh&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KoyanaSingh&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoyanaSingh&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoyanaSingh&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoyanaSingh&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KoyanaSingh&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Me  
 <p align="center">
-  <a href="mailto:koyana.singh16@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:hiimkoyana@gmail.com"><img src="https://img.shields.io/badge/Email%202-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:koyana.singh16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:hiimkoyana@gmail.com"><img src="https://img.shields.io/badge/Email2-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/koyana-singh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/KoyanaSingh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-<!--<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>-->
 <p align="center"><i>"First, solve the problem. Then, write the code." – John Johnson</i></p>
