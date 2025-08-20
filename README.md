@@ -1,5 +1,7 @@
 <!-- Banner / Introduction -->
-<h1 align="center">Hi, I'm Koyana Singh 👋</h1>
+<h1 align="center">Hi, I'm Koyana Singh </h1>
+<!-- <h1 align="center">Hi, I'm Koyana Singh 👋</h1>
+<h1 align="center">Hi, I'm Koyana Singh <img src="https://img.shields.io/badge/FullStack-Developer-blue?style=flat-square" /></h1> -->
 <h3 align="center">Full Stack Developer | Building Scalable Web & Mobile Apps</h3>
 
 <p align="center">
@@ -10,7 +12,7 @@
 
 ## 👨‍💻 About Me  
 - 🚀 Skilled in <b>React</b>, <b>Node.js (Express)</b>, <b>MongoDB</b>, <b>Java</b>, <b>C++</b>, and <b>Python</b>  
-- 🎯 Currently learning <b>Next.js</b> & <b>TypeScript</b>  
+- 🎯 Currently brushing up my <b>core web development skills</b> and <b>strengthening fundamentals</b> 
 - 🛠️ Passionate about solving real-world problems with clean, scalable code  
 - ☕ Coffee + coding = productivity boost  
 
