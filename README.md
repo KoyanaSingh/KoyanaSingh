@@ -37,7 +37,7 @@
 
 ---
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KoyanaSingh&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoyanaSingh&layout=compact&theme=radical" height="165" />
@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoyanaSingh&theme=radical" />
-</p> -->
+</p>
 
 ---
 
